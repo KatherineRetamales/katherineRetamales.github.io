@@ -39,6 +39,19 @@ body{
     margin:auto;
     display:left;
 }
+#img1{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+#img2{
+    width: 150px;
+    height: 100px;
+}
+#img3{
+    width: 150px;
+    height: 100px;
+}
 #myProfile{
     background: #154360;
     width: 100%;
