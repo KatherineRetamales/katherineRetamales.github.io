@@ -7,6 +7,9 @@ body{
     height: 330px;
     color: #EAF2F8;
 }
+#myProfile, #experience,#jobs,#contacts{
+    display: none;
+}
 #btn1{
     background: #154360;
     float: left;
