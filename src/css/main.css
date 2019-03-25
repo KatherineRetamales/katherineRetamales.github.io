@@ -7,7 +7,7 @@ body{
     height: 330px;
     color: #EAF2F8;
 }
-#myProfile, #experience,#jobs,#contacts{
+#myProfile{
     display: none;
 }
 #btn1{
