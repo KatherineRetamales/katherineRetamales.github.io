@@ -1,5 +1,5 @@
 
-document.getElementById('btn1').addEventListener('click',(e)=>{
+/*document.getElementById('btn1').addEventListener('click',(e)=>{
     e.preventDefault();
     document.getElementById('menu').style.display ='none';
     document.getElementById('skills').style.display ='none';
@@ -86,4 +86,4 @@ document.getElementById('btn55').addEventListener('click',(e)=>{
     document.getElementById('contact').style.display ='none';
     document.getElementById('myProfile').style.display = 'none';
     document.getElementById('btnMenu').style.display = 'none';
-});
+});*/
