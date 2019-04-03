@@ -11,6 +11,10 @@ h2{
     border: none;
     height: 320px;
 }
+.menuCenter{
+    width: 60%;
+    margin: 10% 20% 30% 30%;
+}
 .color1{
     background: #7b1fa2;
 }
@@ -49,3 +53,4 @@ h2{
   width: 100px;
   height: 100px;
 }
+
