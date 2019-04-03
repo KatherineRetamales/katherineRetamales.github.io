@@ -1,6 +1,10 @@
 *{
     width: 100%;
     margin: 0%;
+    color: #ffffff;
+}
+h2{
+    color: #7b1fa2 !important;
 }
 .btn1{
     width: 50%;
@@ -38,7 +42,7 @@
     padding: 20px;
 }
 .context1{
-    height: 430px;
+    height: 600px;
 }
 .menu{
   padding-top: 50px;
