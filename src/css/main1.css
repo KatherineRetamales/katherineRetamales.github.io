@@ -2,7 +2,6 @@ body {
     margin: 0%;
     font-family: Tahoma,sans-serif;
     background-color: #000;
-    color: #fff;
 }
 a {
     color: #fff;
@@ -158,7 +157,7 @@ a {
 }
 .context{
     border: 1px solid #9c27b0;
-    width: 60%;
+    width: 50%;
 }
 
 /* 48em = 768px */
